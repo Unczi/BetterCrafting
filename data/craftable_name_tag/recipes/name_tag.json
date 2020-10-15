@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:name_tag",
+        "count": 1
+    },
+    "pattern": [
+        "SW#",
+        "WIP",
+        "#PP"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:string"
+        },
+        "#": {
+            "item": "minecraft:air"
+        },
+		"W": {
+            "item": "minecraft:writable_book"
+        },
+		"I": {
+            "item": "minecraft:ink_sac"
+        },
+		"P": {
+            "item": "minecraft:paper"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    },
+    "pattern": [
+        "PSP",
+        "P#P",
+        "P#P"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "#": {
+            "item": "minecraft:air"
+        },
+		"S": {
+            "item": "minecraft:nether_star"
+        }
+    }
+}

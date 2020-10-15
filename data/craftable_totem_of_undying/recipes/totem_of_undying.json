@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    },
+    "pattern": [
+        "GSG",
+        "GGG",
+        "#G#"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:nether_star"
+        },
+        "#": {
+            "item": "minecraft:air"
+        },
+		"G": {
+            "item": "minecraft:gold_block"
+        }
+    }
+}

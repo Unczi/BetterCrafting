@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:dead_bush",
+        "count": 1
+    },
+    "pattern": [
+        "/#/",
+        "///",
+        "#/#"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "#": {
+            "item": "minecraft:air"
+        }
+    }
+}

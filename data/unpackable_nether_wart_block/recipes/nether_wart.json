@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:nether_wart",
+        "count": 9
+    },
+    "pattern": [
+        "W"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:nether_wart_block"
+        }
+    }
+}

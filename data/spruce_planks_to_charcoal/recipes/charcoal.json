@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:spruce_planks"
+  },
+  "result": "minecraft:charcoal",
+  "experience": 0.125,
+  "cookingtime": 800
+}

@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:oak_boat",
+        "count": 1
+    },
+    "pattern": [
+        "P#P",
+        "PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:warped_planks"
+        },
+        "#": {
+            "item": "minecraft:air"
+        }
+    }
+}
